@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn
+python-docx
+rapidfuzz
+pypdf
+sentence-transformers
+pandas
+openpyxl
+scikit-learn
+numpy
